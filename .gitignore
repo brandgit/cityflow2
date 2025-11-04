@@ -12,8 +12,10 @@ ENV/
 
 bucket-cityflow-paris-s3-raw/
 data/
-*.csv
-*.json
+
+# Exclure les métriques comptages (trop volumineuses > 100 MB)
+output/metrics/comptages_metrics_*.json
+
 
 # Environnement
 

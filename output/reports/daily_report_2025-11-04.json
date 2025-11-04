@@ -1,0 +1,1130 @@
+{
+  "date": "2025-11-04",
+  "generated_at": "2025-11-04T05:31:50.926576",
+  "summary": {
+    "total_vehicules_paris": 0,
+    "temps_perdu_total_minutes": 0,
+    "nombre_troncons_satures": 25,
+    "taux_disponibilite_capteurs": 100.0,
+    "total_velos_paris": 4699.0
+  },
+  "top_10_troncons_frequentes": [
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5319",
+      "libelle": "PE_Pont_Amont",
+      "debit_horaire_moyen": 5257.809523809524,
+      "debit_journalier_total": 441656.0,
+      "debit_max": 7053.0,
+      "taux_occupation_moyen": 14.443333333333337,
+      "etat_trafic_dominant": "Pré-saturé",
+      "heure_pic": "2025-02-02T15:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.82626016735152, 2.3884001106044765",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5327",
+      "libelle": "PE_Guyane",
+      "debit_horaire_moyen": 4386.173469387755,
+      "debit_journalier_total": 429845.0,
+      "debit_max": 6344.0,
+      "taux_occupation_moyen": 17.91212121212121,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-02-02T14:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.83846287262877, 2.4130460767637274",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5439",
+      "libelle": "PI_Passy_Muette",
+      "debit_horaire_moyen": 4537.8279569892475,
+      "debit_journalier_total": 422018.0,
+      "debit_max": 7648.0,
+      "taux_occupation_moyen": 11.152150537634407,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-02-25T09:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "75016",
+      "geo_point_2d": "48.860193411246016, 2.2635174673122647",
+      "zone_fallback": "Nord-Ouest"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5328",
+      "libelle": "PE_Courteline",
+      "debit_horaire_moyen": 4748.465909090909,
+      "debit_journalier_total": 417865.0,
+      "debit_max": 6423.0,
+      "taux_occupation_moyen": 18.40568181818182,
+      "etat_trafic_dominant": "Pré-saturé",
+      "heure_pic": "2025-02-21T09:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.84315051883515, 2.4139714259415763",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5437",
+      "libelle": "PE_Muette_Passy",
+      "debit_horaire_moyen": 4506.295454545455,
+      "debit_journalier_total": 396554.0,
+      "debit_max": 7041.0,
+      "taux_occupation_moyen": 11.505681818181822,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-05-26T19:00:00+02:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "75016",
+      "geo_point_2d": "48.86059918511462, 2.2634514444117624",
+      "zone_fallback": "Nord-Ouest"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5346",
+      "libelle": "PI_Pont_Amont",
+      "debit_horaire_moyen": 4390.348314606742,
+      "debit_journalier_total": 390741.0,
+      "debit_max": 6288.0,
+      "taux_occupation_moyen": 19.602105263157892,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-06-09T18:00:00+02:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.82641573049593, 2.38835503793778",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5370",
+      "libelle": "PE_Charles_Hermite",
+      "debit_horaire_moyen": 4466.091954022989,
+      "debit_journalier_total": 388550.0,
+      "debit_max": 7431.0,
+      "taux_occupation_moyen": 12.000000000000002,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-03-03T18:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.90086282635956, 2.3652928265234094",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5277",
+      "libelle": "PE_Ivry",
+      "debit_horaire_moyen": 4818.9875,
+      "debit_journalier_total": 385519.0,
+      "debit_max": 5883.0,
+      "taux_occupation_moyen": 23.49874999999999,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-04-25T11:00:00+02:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.81956638292793, 2.373433514477573",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5326",
+      "libelle": "PE_Doree",
+      "debit_horaire_moyen": 4485.261904761905,
+      "debit_journalier_total": 376762.0,
+      "debit_max": 6034.0,
+      "taux_occupation_moyen": 19.191176470588236,
+      "etat_trafic_dominant": "Pré-saturé",
+      "heure_pic": "2025-02-21T15:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.83427966066329, 2.4100377115542697",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5435",
+      "libelle": "PE_Muette",
+      "debit_horaire_moyen": 3866.082474226804,
+      "debit_journalier_total": 375010.0,
+      "debit_max": 6101.0,
+      "taux_occupation_moyen": 11.1860824742268,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-01-27T09:00:00+01:00",
+      "temps_perdu_minutes": 0.0,
+      "temps_perdu_total_minutes": 0.0,
+      "congestion_alerte": false,
+      "arrondissement": "75016",
+      "geo_point_2d": "48.86356974676207, 2.265851237377608",
+      "zone_fallback": "Nord-Ouest"
+    }
+  ],
+  "top_10_zones_congestionnees": [
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5333",
+      "libelle": "PI_Lagny",
+      "debit_horaire_moyen": 4728.302325581395,
+      "debit_journalier_total": 203317.0,
+      "debit_max": 6057.0,
+      "taux_occupation_moyen": 31.026744186046525,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-03-07T10:00:00+01:00",
+      "temps_perdu_minutes": 0.10761773493066062,
+      "temps_perdu_total_minutes": 21880.515012897125,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.85038153783919, 2.415013682752968",
+      "zone_fallback": "Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5333",
+      "libelle": "PI_Lagny",
+      "debit_horaire_moyen": 4909.512195121952,
+      "debit_journalier_total": 201290.0,
+      "debit_max": 6219.0,
+      "taux_occupation_moyen": 32.26341463414634,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-02-21T09:00:00+01:00",
+      "temps_perdu_minutes": 0.10761773493066062,
+      "temps_perdu_total_minutes": 21662.373864192676,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.85038153783919, 2.415013682752968",
+      "zone_fallback": "Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5299",
+      "libelle": "PI_Ivry",
+      "debit_horaire_moyen": 4393.114285714286,
+      "debit_journalier_total": 153759.0,
+      "debit_max": 5681.0,
+      "taux_occupation_moyen": 31.305714285714288,
+      "etat_trafic_dominant": "Pré-saturé",
+      "heure_pic": "2025-02-28T17:00:00+01:00",
+      "temps_perdu_minutes": 0.13346398536320503,
+      "temps_perdu_total_minutes": 20521.28892546104,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.8197308676066, 2.373340409477642",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6092",
+      "libelle": "AE_A6B",
+      "debit_horaire_moyen": 2560.5696202531644,
+      "debit_journalier_total": 202285.0,
+      "debit_max": 3804.0,
+      "taux_occupation_moyen": 30.913291139240513,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-06-02T07:00:00+02:00",
+      "temps_perdu_minutes": 0.09910076012750829,
+      "temps_perdu_total_minutes": 20046.597262393014,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.81606479296709, 2.358285627663355",
+      "zone_fallback": "Sud"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5337",
+      "libelle": "PI_Doree",
+      "debit_horaire_moyen": 4491.868421052632,
+      "debit_journalier_total": 170691.0,
+      "debit_max": 5871.0,
+      "taux_occupation_moyen": 31.051315789473673,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-10-12T22:00:00+02:00",
+      "temps_perdu_minutes": 0.1144814475423877,
+      "temps_perdu_total_minutes": 19540.9527624577,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.834401462471654, 2.4098568235819093",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5338",
+      "libelle": "PI_Reuilly",
+      "debit_horaire_moyen": 3424.657894736842,
+      "debit_journalier_total": 130137.0,
+      "debit_max": 5665.0,
+      "taux_occupation_moyen": 31.95930232558138,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-10-08T13:00:00+02:00",
+      "temps_perdu_minutes": 0.14669993368564427,
+      "temps_perdu_total_minutes": 19091.089270048687,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.83218804572332, 2.405152821925195",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5478",
+      "libelle": "AI_A3_bretelle_7",
+      "debit_horaire_moyen": 1547.1142857142856,
+      "debit_journalier_total": 108298.0,
+      "debit_max": 2755.0,
+      "taux_occupation_moyen": 30.321830985915497,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-06-13T07:00:00+02:00",
+      "temps_perdu_minutes": 0.16987781909681643,
+      "temps_perdu_total_minutes": 18397.428052547024,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.865524101872005, 2.4135790509667507",
+      "zone_fallback": "Nord-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5173",
+      "libelle": "PE_Sevres",
+      "debit_horaire_moyen": 2492.019230769231,
+      "debit_journalier_total": 129585.0,
+      "debit_max": 4216.0,
+      "taux_occupation_moyen": 31.094230769230766,
+      "etat_trafic_dominant": "Fluide",
+      "heure_pic": "2025-01-31T08:00:00+01:00",
+      "temps_perdu_minutes": 0.13021255470737947,
+      "temps_perdu_total_minutes": 16873.59390175577,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.8338041888295, 2.2769508169220267",
+      "zone_fallback": "Sud-Ouest"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5337",
+      "libelle": "PI_Doree",
+      "debit_horaire_moyen": 4465.5,
+      "debit_journalier_total": 142896.0,
+      "debit_max": 5799.0,
+      "taux_occupation_moyen": 31.424242424242426,
+      "etat_trafic_dominant": "Saturé",
+      "heure_pic": "2025-10-09T12:00:00+02:00",
+      "temps_perdu_minutes": 0.1144814475423877,
+      "temps_perdu_total_minutes": 16358.940928017033,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.834401462471654, 2.4098568235819093",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5336",
+      "libelle": "PI_Guyane",
+      "debit_horaire_moyen": 4424.75,
+      "debit_journalier_total": 70796.0,
+      "debit_max": 6075.0,
+      "taux_occupation_moyen": 32.70294117647059,
+      "etat_trafic_dominant": "Pré-saturé",
+      "heure_pic": "2025-03-14T14:00:00+01:00",
+      "temps_perdu_minutes": 0.22779001521095088,
+      "temps_perdu_total_minutes": 16126.62191687448,
+      "congestion_alerte": false,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.83890202626144, 2.412903716886841",
+      "zone_fallback": "Sud-Est"
+    }
+  ],
+  "capteurs_defaillants": [
+    {
+      "id_compteur": "100003098-101003098",
+      "type": "bike"
+    },
+    {
+      "id_compteur": "300030116-353354957",
+      "type": "bike"
+    }
+  ],
+  "alertes_congestion": [
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1966",
+      "libelle": "Reaumur",
+      "debit_horaire_moyen": 388.93333333333334,
+      "debit_journalier_total": 11668.0,
+      "debit_max": 764.0,
+      "taux_occupation_moyen": 99.99112,
+      "etat_trafic_dominant": "Inconnu",
+      "heure_pic": "2025-06-24T19:00:00+02:00",
+      "temps_perdu_minutes": 0.2453494030357996,
+      "temps_perdu_total_minutes": 2862.73683462171,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.86796614401682, 2.3444776071516014",
+      "zone_fallback": "Centre"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 348.5,
+      "debit_journalier_total": 2788.0,
+      "debit_max": 461.0,
+      "taux_occupation_moyen": 82.16701499999999,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-23T01:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 738.9726469518583,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5204",
+      "libelle": "Lyon",
+      "debit_horaire_moyen": 136.35294117647058,
+      "debit_journalier_total": 2318.0,
+      "debit_max": 211.0,
+      "taux_occupation_moyen": 85.71427800000001,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-05-11T06:00:00+02:00",
+      "temps_perdu_minutes": 0.26916231499873566,
+      "temps_perdu_total_minutes": 623.9182461670692,
+      "congestion_alerte": true,
+      "arrondissement": "75011",
+      "geo_point_2d": "48.850453098638525, 2.3704323640578773",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 443.0,
+      "debit_journalier_total": 2215.0,
+      "debit_max": 522.0,
+      "taux_occupation_moyen": 83.68044599999999,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-20T02:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 587.0962743896579,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 366.3333333333333,
+      "debit_journalier_total": 2198.0,
+      "debit_max": 456.0,
+      "taux_occupation_moyen": 80.88796333333333,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-22T01:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 582.5903436155612,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "4213",
+      "libelle": "Av_Pte_Asnieres",
+      "debit_horaire_moyen": 486.8333333333333,
+      "debit_journalier_total": 2921.0,
+      "debit_max": 842.0,
+      "taux_occupation_moyen": 81.175446,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-06-23T18:00:00+02:00",
+      "temps_perdu_minutes": 0.19833374795706876,
+      "temps_perdu_total_minutes": 579.3328777825978,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.8913889174779, 2.3019705155008983",
+      "zone_fallback": "Nord-Ouest"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 364.0,
+      "debit_journalier_total": 2184.0,
+      "debit_max": 466.0,
+      "taux_occupation_moyen": 82.39203833333333,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-02T02:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 578.8795770957169,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5204",
+      "libelle": "Lyon",
+      "debit_horaire_moyen": 171.0,
+      "debit_journalier_total": 2052.0,
+      "debit_max": 269.0,
+      "taux_occupation_moyen": 90.967114,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-09-09T20:00:00+02:00",
+      "temps_perdu_minutes": 0.26916231499873566,
+      "temps_perdu_total_minutes": 552.3210703774056,
+      "congestion_alerte": true,
+      "arrondissement": "75011",
+      "geo_point_2d": "48.850453098638525, 2.3704323640578773",
+      "zone_fallback": "Sud-Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6645",
+      "libelle": "Pyrenees",
+      "debit_horaire_moyen": 109.0,
+      "debit_journalier_total": 1417.0,
+      "debit_max": 267.0,
+      "taux_occupation_moyen": 85.8505575,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-09-12T12:00:00+02:00",
+      "temps_perdu_minutes": 0.3768337227627628,
+      "temps_perdu_total_minutes": 533.9733851548349,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.858356987224816, 2.4029646720257354",
+      "zone_fallback": "Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 399.2,
+      "debit_journalier_total": 1996.0,
+      "debit_max": 448.0,
+      "taux_occupation_moyen": 89.435004,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-10T03:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 529.0492838292357,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6512",
+      "libelle": "Belleville",
+      "debit_horaire_moyen": 173.0,
+      "debit_journalier_total": 1211.0,
+      "debit_max": 200.0,
+      "taux_occupation_moyen": 83.56627,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-14T16:00:00+02:00",
+      "temps_perdu_minutes": 0.39589404949191975,
+      "temps_perdu_total_minutes": 479.4276939347148,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.87249473283716, 2.3784196780489677",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 344.0,
+      "debit_journalier_total": 1032.0,
+      "debit_max": 438.0,
+      "taux_occupation_moyen": 80.97999999999999,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-09T06:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 273.53650346281125,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "4213",
+      "libelle": "Av_Pte_Asnieres",
+      "debit_horaire_moyen": 658.5,
+      "debit_journalier_total": 1317.0,
+      "debit_max": 696.0,
+      "taux_occupation_moyen": 80.99639,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-09-30T09:00:00+02:00",
+      "temps_perdu_minutes": 0.19833374795706876,
+      "temps_perdu_total_minutes": 261.20554605945955,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.8913889174779, 2.3019705155008983",
+      "zone_fallback": "Nord-Ouest"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6644",
+      "libelle": "Pyrenees",
+      "debit_horaire_moyen": 214.0,
+      "debit_journalier_total": 642.0,
+      "debit_max": 245.0,
+      "taux_occupation_moyen": 85.92611,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-16T09:00:00+02:00",
+      "temps_perdu_minutes": 0.3778881005103865,
+      "temps_perdu_total_minutes": 242.60416052766814,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.858395535941, 2.4030463628478542",
+      "zone_fallback": "Est"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 402.5,
+      "debit_journalier_total": 805.0,
+      "debit_max": 452.0,
+      "taux_occupation_moyen": 84.88555500000001,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-01T01:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 213.36907489104948,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6512",
+      "libelle": "Belleville",
+      "debit_horaire_moyen": 255.5,
+      "debit_journalier_total": 511.0,
+      "debit_max": 264.0,
+      "taux_occupation_moyen": 80.07833500000001,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-04-04T09:00:00+02:00",
+      "temps_perdu_minutes": 0.39589404949191975,
+      "temps_perdu_total_minutes": 202.301859290371,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.87249473283716, 2.3784196780489677",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6512",
+      "libelle": "Belleville",
+      "debit_horaire_moyen": 226.0,
+      "debit_journalier_total": 452.0,
+      "debit_max": 277.0,
+      "taux_occupation_moyen": 83.71416500000001,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-23T10:00:00+02:00",
+      "temps_perdu_minutes": 0.39589404949191975,
+      "temps_perdu_total_minutes": 178.94411037034772,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.87249473283716, 2.3784196780489677",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "6294",
+      "libelle": "Quai_Grands_Augustins",
+      "debit_horaire_moyen": 343.0,
+      "debit_journalier_total": 343.0,
+      "debit_max": 343.0,
+      "taux_occupation_moyen": 82.35167,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-14T11:00:00+02:00",
+      "temps_perdu_minutes": 0.35476654719287637,
+      "temps_perdu_total_minutes": 121.68492568715659,
+      "congestion_alerte": true,
+      "arrondissement": "75001",
+      "geo_point_2d": "48.855412185815915, 2.341410192800323",
+      "zone_fallback": "Sud-Ouest"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "1648",
+      "libelle": "Chapelle",
+      "debit_horaire_moyen": 438.0,
+      "debit_journalier_total": 438.0,
+      "debit_max": 438.0,
+      "taux_occupation_moyen": 81.71333,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-10-14T00:00:00+02:00",
+      "temps_perdu_minutes": 0.26505475141745277,
+      "temps_perdu_total_minutes": 116.09398112084432,
+      "congestion_alerte": true,
+      "arrondissement": "Unknown",
+      "geo_point_2d": "48.897783613874495, 2.3592533639934414",
+      "zone_fallback": "Nord"
+    },
+    {
+      "date": "2025-11-04",
+      "identifiant_arc": "5518",
+      "libelle": "Bd_Arago",
+      "debit_horaire_moyen": 70.25,
+      "debit_journalier_total": 281.0,
+      "debit_max": 112.0,
+      "taux_occupation_moyen": 92.01759333333332,
+      "etat_trafic_dominant": "BLOQUÉ",
+      "heure_pic": "2025-08-18T08:00:00+02:00",
+      "temps_perdu_minutes": 0.3070309203098866,
+      "temps_perdu_total_minutes": 86.27568860707814,
+      "congestion_alerte": true,
+      "arrondissement": "75014",
+      "geo_point_2d": "48.835436865117735, 2.347297401094437",
+      "zone_fallback": "Sud-Ouest"
+    }
+  ],
+  "chantiers_actifs": [
+    {
+      "identifiant": "CP002664",
+      "typologie": "2",
+      "impact": "IMPASSE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP002669",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002792",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002871",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002911",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002933",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002644",
+      "typologie": "3",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002824",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002904",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002628",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002881",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002889",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002894",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75017"
+    },
+    {
+      "identifiant": "CP002927",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP002910",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75020"
+    },
+    {
+      "identifiant": "CP002371",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002666",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002836",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002848",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002883",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75006"
+    },
+    {
+      "identifiant": "CP002917",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75018"
+    },
+    {
+      "identifiant": "CP002924",
+      "typologie": "1",
+      "impact": "IMPASSE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002908",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75020"
+    },
+    {
+      "identifiant": "CP002806",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002912",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75006"
+    },
+    {
+      "identifiant": "CP002923",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002441",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002915",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75011"
+    },
+    {
+      "identifiant": "CP002936",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002680",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002870",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP001421",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75016"
+    },
+    {
+      "identifiant": "CP002770",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002931",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002932",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002937",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75004"
+    },
+    {
+      "identifiant": "CP002645",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002649",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002807",
+      "typologie": "3",
+      "impact": "",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002699",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002863",
+      "typologie": "2",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002753",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002827",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002861",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002896",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75001"
+    },
+    {
+      "identifiant": "CP002512",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002700",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75007"
+    },
+    {
+      "identifiant": "CP002756",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002805",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002698",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002892",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP002884",
+      "typologie": "3",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002901",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002476",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75016"
+    },
+    {
+      "identifiant": "CP002695",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002845",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002867",
+      "typologie": "3",
+      "impact": "",
+      "arrondissement": "75009"
+    },
+    {
+      "identifiant": "CP002926",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": null
+    },
+    {
+      "identifiant": "CP002934",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002905",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002697",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002873",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002771",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002804",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002913",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002682",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002893",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75004"
+    },
+    {
+      "identifiant": "CP002638",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75005"
+    }
+  ],
+  "evolution_vs_semaine_precedente": {
+    "note": "Nécessite données historiques pour comparaison"
+  },
+  "meteo_impact": {
+    "date": "2025-11-03",
+    "temp_moyenne": 11.6,
+    "temp_min": 7.3,
+    "temp_max": 15.6,
+    "precip_totale": 0.0,
+    "vent_moyen": 15.5,
+    "conditions": "Partially cloudy",
+    "impact_mobilite": 50.0
+  }
+}

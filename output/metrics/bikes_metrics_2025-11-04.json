@@ -1,0 +1,1482 @@
+{
+  "metrics": [
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100007049-101007049",
+      "nom_compteur": "28 boulevard Diderot O-E",
+      "total_jour": 57.0,
+      "moyenne_horaire": 2.375,
+      "pic_horaire": 21,
+      "arrondissement": "75012",
+      "coordinates": {
+        "lon": 2.37559,
+        "lat": 48.84613
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100044493-101044493",
+      "nom_compteur": "67 boulevard Voltaire SE-NO",
+      "total_jour": 97.0,
+      "moyenne_horaire": 4.041666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37376,
+        "lat": 48.86149
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100044494-353504987",
+      "nom_compteur": "10 avenue de la Grande Armée SE-NO",
+      "total_jour": 36.0,
+      "moyenne_horaire": 1.5,
+      "pic_horaire": 22,
+      "arrondissement": "75016",
+      "coordinates": {
+        "lon": 2.2924,
+        "lat": 48.8748
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100044506-101044506",
+      "nom_compteur": "72 boulevard Voltaire NO-SE",
+      "total_jour": 147.0,
+      "moyenne_horaire": 6.125,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37407,
+        "lat": 48.86155
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047535-101047535",
+      "nom_compteur": "Pont du Garigliano NO-SE",
+      "total_jour": 28.0,
+      "moyenne_horaire": 1.1666666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.26692,
+        "lat": 48.83994
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047536-101047536",
+      "nom_compteur": "102 boulevard de Magenta SE-NO",
+      "total_jour": 264.0,
+      "moyenne_horaire": 11.0,
+      "pic_horaire": 22,
+      "arrondissement": "75009",
+      "coordinates": {
+        "lon": 2.35475,
+        "lat": 48.87769
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047542-103047542",
+      "nom_compteur": "Face au 48 quai de la marne NE-SO",
+      "total_jour": 32.0,
+      "moyenne_horaire": 1.3333333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38606,
+        "lat": 48.89128
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047542-104047542",
+      "nom_compteur": "Face au 48 quai de la marne SO-NE",
+      "total_jour": 96.0,
+      "moyenne_horaire": 4.0,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38606,
+        "lat": 48.89128
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047546-104047546",
+      "nom_compteur": "Face au 70 quai de Bercy N-S",
+      "total_jour": 10.0,
+      "moyenne_horaire": 0.4166666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38699,
+        "lat": 48.829523
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047547-104047547",
+      "nom_compteur": "6 rue Julia Bartet NE-SO",
+      "total_jour": 33.0,
+      "moyenne_horaire": 1.375,
+      "pic_horaire": 22,
+      "arrondissement": "75015",
+      "coordinates": {
+        "lon": 2.30281,
+        "lat": 48.82624
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047548-104047548",
+      "nom_compteur": "Face au 25 quai de l'Oise SO-NE",
+      "total_jour": 87.0,
+      "moyenne_horaire": 3.625,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38482,
+        "lat": 48.89141
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100065336-104065336",
+      "nom_compteur": "35 boulevard de Ménilmontant NO-SE",
+      "total_jour": 166.0,
+      "moyenne_horaire": 6.916666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.388364,
+        "lat": 48.860528
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100050876-103050876",
+      "nom_compteur": "Totem 64 Rue de Rivoli E-O",
+      "total_jour": 92.0,
+      "moyenne_horaire": 3.8333333333333335,
+      "pic_horaire": 22,
+      "arrondissement": "75001",
+      "coordinates": {
+        "lon": 2.35211,
+        "lat": 48.85735
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056038-101056038",
+      "nom_compteur": "44 avenue des Champs Elysées SE-NO",
+      "total_jour": 72.0,
+      "moyenne_horaire": 3.0,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.30743,
+        "lat": 48.86999
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056039-101056039",
+      "nom_compteur": "180 avenue d'Italie N-S",
+      "total_jour": 48.0,
+      "moyenne_horaire": 2.0,
+      "pic_horaire": 22,
+      "arrondissement": "75013",
+      "coordinates": {
+        "lon": 2.35873,
+        "lat": 48.82048
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056041-353628483",
+      "nom_compteur": "147 avenue d'Italie 147 avenue d'Italie [Bike]",
+      "total_jour": 22.0,
+      "moyenne_horaire": 0.9166666666666666,
+      "pic_horaire": 22,
+      "arrondissement": "75013",
+      "coordinates": {
+        "lon": 2.3588,
+        "lat": 48.82009
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056046-101056046",
+      "nom_compteur": "Pont des Invalides S-N",
+      "total_jour": 16.0,
+      "moyenne_horaire": 0.6666666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.31055,
+        "lat": 48.86279
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056047-101056047",
+      "nom_compteur": "Pont de la Concorde S-N",
+      "total_jour": 76.0,
+      "moyenne_horaire": 3.1666666666666665,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.32006,
+        "lat": 48.86382
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056329-103056329",
+      "nom_compteur": "Pont Charles De Gaulle SO-NE",
+      "total_jour": 6.0,
+      "moyenne_horaire": 0.25,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.36811,
+        "lat": 48.84223
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056332-103056332",
+      "nom_compteur": "Pont de Bercy NE-SO",
+      "total_jour": 17.0,
+      "moyenne_horaire": 0.7083333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37587,
+        "lat": 48.83848
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056336-103056336",
+      "nom_compteur": "27 quai de la Tournelle SE-NO",
+      "total_jour": 82.0,
+      "moyenne_horaire": 3.4166666666666665,
+      "pic_horaire": 22,
+      "arrondissement": "75004",
+      "coordinates": {
+        "lon": 2.35423,
+        "lat": 48.85013
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057329-103057329",
+      "nom_compteur": "Totem 85 quai d'Austerlitz SE-NO",
+      "total_jour": 69.0,
+      "moyenne_horaire": 2.875,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.36729,
+        "lat": 48.84201
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057380-104057380",
+      "nom_compteur": "Totem Cours la Reine E-O",
+      "total_jour": 26.0,
+      "moyenne_horaire": 1.0833333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.31444,
+        "lat": 48.86462
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057380-103057380",
+      "nom_compteur": "Totem Cours la Reine O-E",
+      "total_jour": 44.0,
+      "moyenne_horaire": 1.8333333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.31444,
+        "lat": 48.86462
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057445-104057445",
+      "nom_compteur": "Totem 73 boulevard de Sébastopol S-N",
+      "total_jour": 329.0,
+      "moyenne_horaire": 13.708333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35096,
+        "lat": 48.86377
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056035-353266462",
+      "nom_compteur": "Quai des Tuileries NO-SE",
+      "total_jour": 13.0,
+      "moyenne_horaire": 0.5416666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.32239,
+        "lat": 48.8635
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030163-353355237",
+      "nom_compteur": "27 boulevard Davout N-S",
+      "total_jour": 11.0,
+      "moyenne_horaire": 0.4583333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.41143,
+        "lat": 48.84935
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030172-353355278",
+      "nom_compteur": "42 boulevard Soult N-S",
+      "total_jour": 13.0,
+      "moyenne_horaire": 0.5416666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.40889,
+        "lat": 48.8402
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030173-353355292",
+      "nom_compteur": "77 boulevard Masséna NE-SO",
+      "total_jour": 12.0,
+      "moyenne_horaire": 0.5,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.368576,
+        "lat": 48.821204
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030173-353355291",
+      "nom_compteur": "77 boulevard Masséna SO-NE",
+      "total_jour": 15.0,
+      "moyenne_horaire": 0.625,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.368576,
+        "lat": 48.821204
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030250-353355932",
+      "nom_compteur": "98 boulevard Poniatowski NE-SO",
+      "total_jour": 18.0,
+      "moyenne_horaire": 0.75,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.405283,
+        "lat": 48.834624
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100006300-101006300",
+      "nom_compteur": "135 avenue Daumesnil SE-NO",
+      "total_jour": 51.0,
+      "moyenne_horaire": 2.125,
+      "pic_horaire": 21,
+      "arrondissement": "75012",
+      "coordinates": {
+        "lon": 2.383378,
+        "lat": 48.843435
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100036718-104036718",
+      "nom_compteur": "39 quai François Mauriac NO-SE",
+      "total_jour": 32.0,
+      "moyenne_horaire": 1.3333333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.377,
+        "lat": 48.83436
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100036718-103036718",
+      "nom_compteur": "39 quai François Mauriac SE-NO",
+      "total_jour": 15.0,
+      "moyenne_horaire": 0.625,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.377,
+        "lat": 48.83436
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100041488-101041488",
+      "nom_compteur": "27 boulevard Diderot E-O",
+      "total_jour": 14.0,
+      "moyenne_horaire": 0.5833333333333334,
+      "pic_horaire": 22,
+      "arrondissement": "75012",
+      "coordinates": {
+        "lon": 2.375456,
+        "lat": 48.846099
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100042374-110042374",
+      "nom_compteur": "Voie Georges Pompidou NE-SO",
+      "total_jour": 16.0,
+      "moyenne_horaire": 0.6666666666666666,
+      "pic_horaire": 22,
+      "arrondissement": "75016",
+      "coordinates": {
+        "lon": 2.27596,
+        "lat": 48.84837
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100042374-109042374",
+      "nom_compteur": "Voie Georges Pompidou SO-NE",
+      "total_jour": 13.0,
+      "moyenne_horaire": 0.5416666666666666,
+      "pic_horaire": 22,
+      "arrondissement": "75016",
+      "coordinates": {
+        "lon": 2.27596,
+        "lat": 48.84837
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100044495-101044495",
+      "nom_compteur": "7 avenue de la Grande Armée NO-SE",
+      "total_jour": 30.0,
+      "moyenne_horaire": 1.25,
+      "pic_horaire": 22,
+      "arrondissement": "75016",
+      "coordinates": {
+        "lon": 2.29219,
+        "lat": 48.87474
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047533-101047533",
+      "nom_compteur": "89 boulevard de Magenta NO-SE",
+      "total_jour": 165.0,
+      "moyenne_horaire": 6.875,
+      "pic_horaire": 22,
+      "arrondissement": "75009",
+      "coordinates": {
+        "lon": 2.35535,
+        "lat": 48.87756
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047538-101047538",
+      "nom_compteur": "Face au 16 avenue de la  Porte des Ternes O-E",
+      "total_jour": 7.0,
+      "moyenne_horaire": 0.2916666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.28122,
+        "lat": 48.88156
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047539-101047539",
+      "nom_compteur": "21 boulevard Auguste Blanqui SO-NE",
+      "total_jour": 24.0,
+      "moyenne_horaire": 1.0,
+      "pic_horaire": 22,
+      "arrondissement": "75013",
+      "coordinates": {
+        "lon": 2.35373,
+        "lat": 48.83074
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047541-353326452",
+      "nom_compteur": "Pont National SO-NE",
+      "total_jour": 30.0,
+      "moyenne_horaire": 1.25,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38448,
+        "lat": 48.82639
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047545-104047545",
+      "nom_compteur": "Face 104 rue d'Aubervilliers S-N",
+      "total_jour": 60.0,
+      "moyenne_horaire": 2.5,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.368852,
+        "lat": 48.890457
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047546-103047546",
+      "nom_compteur": "Face au 70 quai de Bercy S-N",
+      "total_jour": 3.0,
+      "moyenne_horaire": 0.125,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38699,
+        "lat": 48.829523
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047547-103047547",
+      "nom_compteur": "6 rue Julia Bartet SO-NE",
+      "total_jour": 6.0,
+      "moyenne_horaire": 0.25,
+      "pic_horaire": 22,
+      "arrondissement": "75015",
+      "coordinates": {
+        "lon": 2.30281,
+        "lat": 48.82624
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047549-101047549",
+      "nom_compteur": "Pont National NE-SO",
+      "total_jour": 40.0,
+      "moyenne_horaire": 1.6666666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38491,
+        "lat": 48.82682
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100049407-353255860",
+      "nom_compteur": "152 boulevard du Montparnasse E-O",
+      "total_jour": 49.0,
+      "moyenne_horaire": 2.0416666666666665,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.33438,
+        "lat": 48.84017
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100049408-101049408",
+      "nom_compteur": "10 boulevard Auguste Blanqui NE-SO",
+      "total_jour": 24.0,
+      "moyenne_horaire": 1.0,
+      "pic_horaire": 22,
+      "arrondissement": "75013",
+      "coordinates": {
+        "lon": 2.35317,
+        "lat": 48.83082
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100050876-104050876",
+      "nom_compteur": "Totem 64 Rue de Rivoli O-E",
+      "total_jour": 164.0,
+      "moyenne_horaire": 6.833333333333333,
+      "pic_horaire": 22,
+      "arrondissement": "75001",
+      "coordinates": {
+        "lon": 2.35211,
+        "lat": 48.85735
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056032-101056032",
+      "nom_compteur": "87 avenue de Flandre NE-SO",
+      "total_jour": 52.0,
+      "moyenne_horaire": 2.1666666666666665,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37472,
+        "lat": 48.88926
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056040-101056040",
+      "nom_compteur": "129 rue Lecourbe SO-NE",
+      "total_jour": 14.0,
+      "moyenne_horaire": 0.5833333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.30102,
+        "lat": 48.84222
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056044-101056044",
+      "nom_compteur": "132 rue Lecourbe NE-SO",
+      "total_jour": 40.0,
+      "moyenne_horaire": 1.6666666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.30115,
+        "lat": 48.84209
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056045-101056045",
+      "nom_compteur": "Pont de la Concorde N-S",
+      "total_jour": 77.0,
+      "moyenne_horaire": 3.2083333333333335,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.31973,
+        "lat": 48.86373
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056226-104056226",
+      "nom_compteur": "Face au 8 avenue de la porte de Charenton NO-SE",
+      "total_jour": 4.0,
+      "moyenne_horaire": 0.16666666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.400551,
+        "lat": 48.830331
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056327-104056327",
+      "nom_compteur": "Face au 4 avenue de la porte de Bagnolet O-E",
+      "total_jour": 35.0,
+      "moyenne_horaire": 1.4583333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.40966,
+        "lat": 48.86485
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056329-104056329",
+      "nom_compteur": "Pont Charles De Gaulle NE-SO",
+      "total_jour": 22.0,
+      "moyenne_horaire": 0.9166666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.36811,
+        "lat": 48.84223
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056330-104056330",
+      "nom_compteur": "36 quai de Grenelle NE-SO",
+      "total_jour": 70.0,
+      "moyenne_horaire": 2.9166666666666665,
+      "pic_horaire": 22,
+      "arrondissement": "75016",
+      "coordinates": {
+        "lon": 2.28593,
+        "lat": 48.85174
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056330-103056330",
+      "nom_compteur": "36 quai de Grenelle SO-NE",
+      "total_jour": 31.0,
+      "moyenne_horaire": 1.2916666666666667,
+      "pic_horaire": 22,
+      "arrondissement": "75016",
+      "coordinates": {
+        "lon": 2.28593,
+        "lat": 48.85174
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056331-104056331",
+      "nom_compteur": "Face au 40 quai D'Issy NE-SO",
+      "total_jour": 9.0,
+      "moyenne_horaire": 0.375,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.26526,
+        "lat": 48.83428
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056331-103056331",
+      "nom_compteur": "Face au 40 quai D'Issy SO-NE",
+      "total_jour": 5.0,
+      "moyenne_horaire": 0.20833333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.26526,
+        "lat": 48.83428
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056334-103056334",
+      "nom_compteur": "38 rue Turbigo NE-SO",
+      "total_jour": 80.0,
+      "moyenne_horaire": 3.3333333333333335,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35387,
+        "lat": 48.86502
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056335-103056335",
+      "nom_compteur": "Quai d'Orsay O-E",
+      "total_jour": 74.0,
+      "moyenne_horaire": 3.0833333333333335,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.3118,
+        "lat": 48.8629
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057329-104057329",
+      "nom_compteur": "Totem 85 quai d'Austerlitz NO-SE",
+      "total_jour": 30.0,
+      "moyenne_horaire": 1.25,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.36729,
+        "lat": 48.84201
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057445-103057445",
+      "nom_compteur": "Totem 73 boulevard de Sébastopol N-S",
+      "total_jour": 175.0,
+      "moyenne_horaire": 7.291666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35096,
+        "lat": 48.86377
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056035-353266460",
+      "nom_compteur": "Quai des Tuileries SE-NO",
+      "total_jour": 7.0,
+      "moyenne_horaire": 0.2916666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.32239,
+        "lat": 48.8635
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030120-353354985",
+      "nom_compteur": "9 boulevard Jourdan O-E",
+      "total_jour": 35.0,
+      "moyenne_horaire": 1.4583333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.34173,
+        "lat": 48.81964
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030172-353355277",
+      "nom_compteur": "42 boulevard Soult S-N",
+      "total_jour": 33.0,
+      "moyenne_horaire": 1.375,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.40889,
+        "lat": 48.8402
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030139-353355137",
+      "nom_compteur": "56 boulevard Kellermann E-O",
+      "total_jour": 24.0,
+      "moyenne_horaire": 1.0,
+      "pic_horaire": 22,
+      "arrondissement": "75013",
+      "coordinates": {
+        "lon": 2.350291,
+        "lat": 48.820988
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030219-353355786",
+      "nom_compteur": "81 boulevard Mortier N-S",
+      "total_jour": 19.0,
+      "moyenne_horaire": 0.7916666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.408714,
+        "lat": 48.86922
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030250-353355931",
+      "nom_compteur": "98 boulevard Poniatowski SO-NE",
+      "total_jour": 29.0,
+      "moyenne_horaire": 1.2083333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.405283,
+        "lat": 48.834624
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030271-353356061",
+      "nom_compteur": "Face au 49 boulevard du Général Martial Valin NO-SE",
+      "total_jour": 10.0,
+      "moyenne_horaire": 0.4166666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.274019,
+        "lat": 48.837055
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100007049-102007049",
+      "nom_compteur": "28 boulevard Diderot E-O",
+      "total_jour": 3.0,
+      "moyenne_horaire": 0.125,
+      "pic_horaire": 22,
+      "arrondissement": "75012",
+      "coordinates": {
+        "lon": 2.37559,
+        "lat": 48.84613
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100036719-104036719",
+      "nom_compteur": "18 quai de l'Hôtel de Ville NO-SE",
+      "total_jour": 21.0,
+      "moyenne_horaire": 0.875,
+      "pic_horaire": 22,
+      "arrondissement": "75004",
+      "coordinates": {
+        "lon": 2.35702,
+        "lat": 48.85372
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100036719-103036719",
+      "nom_compteur": "18 quai de l'Hôtel de Ville SE-NO",
+      "total_jour": 26.0,
+      "moyenne_horaire": 1.0833333333333333,
+      "pic_horaire": 22,
+      "arrondissement": "75004",
+      "coordinates": {
+        "lon": 2.35702,
+        "lat": 48.85372
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047534-101047534",
+      "nom_compteur": "16 avenue de la Porte des Ternes E-O",
+      "total_jour": 8.0,
+      "moyenne_horaire": 0.3333333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.28113,
+        "lat": 48.88168
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047540-101047540",
+      "nom_compteur": "72 boulevard Richard Lenoir S-N",
+      "total_jour": 116.0,
+      "moyenne_horaire": 4.833333333333333,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37301,
+        "lat": 48.86081
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047544-101047544",
+      "nom_compteur": "77 boulevard Richard Lenoir N-S",
+      "total_jour": 65.0,
+      "moyenne_horaire": 2.7083333333333335,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37212,
+        "lat": 48.86089
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047545-103047545",
+      "nom_compteur": "Face 104 rue d'Aubervilliers N-S",
+      "total_jour": 20.0,
+      "moyenne_horaire": 0.8333333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.368852,
+        "lat": 48.890457
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047548-103047548",
+      "nom_compteur": "Face au 25 quai de l'Oise NE-SO",
+      "total_jour": 30.0,
+      "moyenne_horaire": 1.25,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.38482,
+        "lat": 48.89141
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047551-101047551",
+      "nom_compteur": "Pont du Garigliano SE-NO",
+      "total_jour": 13.0,
+      "moyenne_horaire": 0.5416666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.26708,
+        "lat": 48.83992
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100049407-353255859",
+      "nom_compteur": "152 boulevard du Montparnasse O-E",
+      "total_jour": 28.0,
+      "moyenne_horaire": 1.1666666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.33438,
+        "lat": 48.84017
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100050132-101050132",
+      "nom_compteur": "243 boulevard Saint Germain NO-SE",
+      "total_jour": 40.0,
+      "moyenne_horaire": 1.6666666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.32014,
+        "lat": 48.86179
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056034-101056034",
+      "nom_compteur": "72 avenue de Flandre SO-NE",
+      "total_jour": 194.0,
+      "moyenne_horaire": 8.083333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.374872,
+        "lat": 48.889046
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056042-101056042",
+      "nom_compteur": "33 avenue des Champs Elysées NO-SE",
+      "total_jour": 28.0,
+      "moyenne_horaire": 1.1666666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.30722,
+        "lat": 48.86999
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056223-101056223",
+      "nom_compteur": "Pont des Invalides (couloir bus) N-S",
+      "total_jour": 21.0,
+      "moyenne_horaire": 0.875,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.31037,
+        "lat": 48.86281
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056226-103056226",
+      "nom_compteur": "Face au 8 avenue de la porte de Charenton SE-NO",
+      "total_jour": 1.0,
+      "moyenne_horaire": 0.041666666666666664,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.400551,
+        "lat": 48.830331
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056327-103056327",
+      "nom_compteur": "Face au 4 avenue de la porte de Bagnolet E-O",
+      "total_jour": 13.0,
+      "moyenne_horaire": 0.5416666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.40966,
+        "lat": 48.86485
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056332-104056332",
+      "nom_compteur": "Pont de Bercy SO-NE",
+      "total_jour": 21.0,
+      "moyenne_horaire": 0.875,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37587,
+        "lat": 48.83848
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056334-104056334",
+      "nom_compteur": "38 rue Turbigo SO-NE",
+      "total_jour": 124.0,
+      "moyenne_horaire": 5.166666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35387,
+        "lat": 48.86502
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056335-104056335",
+      "nom_compteur": "Quai d'Orsay E-O",
+      "total_jour": 129.0,
+      "moyenne_horaire": 5.375,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.3118,
+        "lat": 48.8629
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056336-104056336",
+      "nom_compteur": "27 quai de la Tournelle NO-SE",
+      "total_jour": 72.0,
+      "moyenne_horaire": 3.0,
+      "pic_horaire": 22,
+      "arrondissement": "75004",
+      "coordinates": {
+        "lon": 2.35423,
+        "lat": 48.85013
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030279-353356112",
+      "nom_compteur": "51 boulevard du Général Martial Valin SE-NO",
+      "total_jour": 19.0,
+      "moyenne_horaire": 0.7916666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.274824,
+        "lat": 48.837006
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030121-353354988",
+      "nom_compteur": "72 boulevard Brune NO-SE",
+      "total_jour": 19.0,
+      "moyenne_horaire": 0.7916666666666666,
+      "pic_horaire": 22,
+      "arrondissement": "75015",
+      "coordinates": {
+        "lon": 2.314274,
+        "lat": 48.82561
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030219-353355787",
+      "nom_compteur": "81 boulevard Mortier S-N",
+      "total_jour": 16.0,
+      "moyenne_horaire": 0.6666666666666666,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.408714,
+        "lat": 48.86922
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "300030160-353355230",
+      "nom_compteur": "163 boulevard Brune SE-NO",
+      "total_jour": 20.0,
+      "moyenne_horaire": 0.8333333333333334,
+      "pic_horaire": 22,
+      "arrondissement": "75015",
+      "coordinates": {
+        "lon": 2.321219,
+        "lat": 48.824237
+      },
+      "anomalie_detectee": false
+    }
+  ],
+  "failing_sensors": [
+    "100003098-101003098",
+    "300030116-353354957"
+  ],
+  "anomalies": [],
+  "top_counters": [
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057445-104057445",
+      "nom_compteur": "Totem 73 boulevard de Sébastopol S-N",
+      "total_jour": 329.0,
+      "moyenne_horaire": 13.708333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35096,
+        "lat": 48.86377
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047536-101047536",
+      "nom_compteur": "102 boulevard de Magenta SE-NO",
+      "total_jour": 264.0,
+      "moyenne_horaire": 11.0,
+      "pic_horaire": 22,
+      "arrondissement": "75009",
+      "coordinates": {
+        "lon": 2.35475,
+        "lat": 48.87769
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056034-101056034",
+      "nom_compteur": "72 avenue de Flandre SO-NE",
+      "total_jour": 194.0,
+      "moyenne_horaire": 8.083333333333334,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.374872,
+        "lat": 48.889046
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100057445-103057445",
+      "nom_compteur": "Totem 73 boulevard de Sébastopol N-S",
+      "total_jour": 175.0,
+      "moyenne_horaire": 7.291666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35096,
+        "lat": 48.86377
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100065336-104065336",
+      "nom_compteur": "35 boulevard de Ménilmontant NO-SE",
+      "total_jour": 166.0,
+      "moyenne_horaire": 6.916666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.388364,
+        "lat": 48.860528
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100047533-101047533",
+      "nom_compteur": "89 boulevard de Magenta NO-SE",
+      "total_jour": 165.0,
+      "moyenne_horaire": 6.875,
+      "pic_horaire": 22,
+      "arrondissement": "75009",
+      "coordinates": {
+        "lon": 2.35535,
+        "lat": 48.87756
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100050876-104050876",
+      "nom_compteur": "Totem 64 Rue de Rivoli O-E",
+      "total_jour": 164.0,
+      "moyenne_horaire": 6.833333333333333,
+      "pic_horaire": 22,
+      "arrondissement": "75001",
+      "coordinates": {
+        "lon": 2.35211,
+        "lat": 48.85735
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100044506-101044506",
+      "nom_compteur": "72 boulevard Voltaire NO-SE",
+      "total_jour": 147.0,
+      "moyenne_horaire": 6.125,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.37407,
+        "lat": 48.86155
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056335-104056335",
+      "nom_compteur": "Quai d'Orsay E-O",
+      "total_jour": 129.0,
+      "moyenne_horaire": 5.375,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.3118,
+        "lat": 48.8629
+      },
+      "anomalie_detectee": false
+    },
+    {
+      "date": "2025-11-01T22:00:00+00:00",
+      "id_compteur": "100056334-104056334",
+      "nom_compteur": "38 rue Turbigo SO-NE",
+      "total_jour": 124.0,
+      "moyenne_horaire": 5.166666666666667,
+      "pic_horaire": 22,
+      "arrondissement": null,
+      "coordinates": {
+        "lon": 2.35387,
+        "lat": 48.86502
+      },
+      "anomalie_detectee": false
+    }
+  ],
+  "frequentation_index": 4.699
+}

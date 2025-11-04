@@ -1,0 +1,14 @@
+{
+  "metrics": {
+    "date": "2025-11-03",
+    "temp_moyenne": 11.6,
+    "temp_min": 7.3,
+    "temp_max": 15.6,
+    "precip_totale": 0.0,
+    "vent_moyen": 15.5,
+    "conditions": "Partially cloudy",
+    "impact_mobilite": 50.0
+  },
+  "impact_mobilite": 50.0,
+  "categories": []
+}

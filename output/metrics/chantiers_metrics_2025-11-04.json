@@ -1,0 +1,469 @@
+{
+  "chantiers_actifs": [
+    {
+      "identifiant": "CP002664",
+      "typologie": "2",
+      "impact": "IMPASSE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP002669",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002792",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002871",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002911",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002933",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002644",
+      "typologie": "3",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002824",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002904",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002628",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002881",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002889",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002894",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75017"
+    },
+    {
+      "identifiant": "CP002927",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP002910",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75020"
+    },
+    {
+      "identifiant": "CP002371",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002666",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002836",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002848",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002883",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75006"
+    },
+    {
+      "identifiant": "CP002917",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75018"
+    },
+    {
+      "identifiant": "CP002924",
+      "typologie": "1",
+      "impact": "IMPASSE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002908",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75020"
+    },
+    {
+      "identifiant": "CP002806",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002912",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75006"
+    },
+    {
+      "identifiant": "CP002923",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002441",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002915",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75011"
+    },
+    {
+      "identifiant": "CP002936",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002680",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002870",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP001421",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75016"
+    },
+    {
+      "identifiant": "CP002770",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002931",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002932",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002937",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75004"
+    },
+    {
+      "identifiant": "CP002645",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002649",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002807",
+      "typologie": "3",
+      "impact": "",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002699",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002863",
+      "typologie": "2",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002753",
+      "typologie": "1",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002827",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002861",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002896",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75001"
+    },
+    {
+      "identifiant": "CP002512",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002700",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75007"
+    },
+    {
+      "identifiant": "CP002756",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002805",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002698",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002892",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75005"
+    },
+    {
+      "identifiant": "CP002884",
+      "typologie": "3",
+      "impact": "BARRAGE_TOTAL",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002901",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75013"
+    },
+    {
+      "identifiant": "CP002476",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75016"
+    },
+    {
+      "identifiant": "CP002695",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002845",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002867",
+      "typologie": "3",
+      "impact": "",
+      "arrondissement": "75009"
+    },
+    {
+      "identifiant": "CP002926",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": null
+    },
+    {
+      "identifiant": "CP002934",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75012"
+    },
+    {
+      "identifiant": "CP002905",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002697",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75010"
+    },
+    {
+      "identifiant": "CP002873",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75014"
+    },
+    {
+      "identifiant": "CP002771",
+      "typologie": "1",
+      "impact": "SENS_UNIQUE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002804",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75008"
+    },
+    {
+      "identifiant": "CP002913",
+      "typologie": "1",
+      "impact": "RESTREINTE",
+      "arrondissement": "75019"
+    },
+    {
+      "identifiant": "CP002682",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75015"
+    },
+    {
+      "identifiant": "CP002893",
+      "typologie": "2",
+      "impact": "RESTREINTE",
+      "arrondissement": "75004"
+    },
+    {
+      "identifiant": "CP002638",
+      "typologie": "3",
+      "impact": "RESTREINTE",
+      "arrondissement": "75005"
+    }
+  ],
+  "impact_by_arrondissement": {
+    "75005": 260,
+    "75010": 780,
+    "75008": 200,
+    "75014": 330,
+    "75019": 380,
+    "75015": 460,
+    "75012": 250,
+    "75017": 50,
+    "75020": 60,
+    "75013": 250,
+    "75006": 100,
+    "75018": 50,
+    "75011": 30,
+    "75016": 80,
+    "75004": 150,
+    "75001": 50,
+    "75007": 50,
+    "75009": 0,
+    "Unknown": 50
+  },
+  "zones_critiques": [
+    {
+      "arrondissement": "75005",
+      "nombre_chantiers": 5
+    },
+    {
+      "arrondissement": "75010",
+      "nombre_chantiers": 12
+    },
+    {
+      "arrondissement": "75008",
+      "nombre_chantiers": 5
+    },
+    {
+      "arrondissement": "75014",
+      "nombre_chantiers": 6
+    },
+    {
+      "arrondissement": "75019",
+      "nombre_chantiers": 6
+    },
+    {
+      "arrondissement": "75015",
+      "nombre_chantiers": 10
+    },
+    {
+      "arrondissement": "75012",
+      "nombre_chantiers": 5
+    },
+    {
+      "arrondissement": "75013",
+      "nombre_chantiers": 4
+    }
+  ],
+  "surface_totale_impactee_m2": 282233.48877092154,
+  "total_chantiers_actifs": 68
+}

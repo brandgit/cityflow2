@@ -1,0 +1,457 @@
+{
+  "reliability_index": 0.0,
+  "active_disruptions_count": 86,
+  "total_disruptions_count": 94,
+  "top_lignes_impactees": [
+    {
+      "ligne": "1",
+      "count": 3
+    },
+    {
+      "ligne": "8",
+      "count": 2
+    },
+    {
+      "ligne": "2",
+      "count": 2
+    },
+    {
+      "ligne": "9",
+      "count": 2
+    },
+    {
+      "ligne": "4",
+      "count": 1
+    },
+    {
+      "ligne": "6",
+      "count": 1
+    },
+    {
+      "ligne": "7",
+      "count": 1
+    },
+    {
+      "ligne": "3",
+      "count": 1
+    }
+  ],
+  "alerts": [
+    {
+      "id": "63d7c136-842e-11f0-a9ad-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 3004.65,
+      "lignes": [
+        "8"
+      ]
+    },
+    {
+      "id": "511ebbb8-b6fa-11f0-aa41-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "29692862-a2ad-11f0-a3cb-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "0bc32c00-b404-11f0-a2bf-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 527.9833333333333,
+      "lignes": [
+        "1"
+      ]
+    },
+    {
+      "id": "4534535e-8440-11f0-bf1d-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "23876a92-94b3-11f0-9236-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "22dbd95e-2ff3-11f0-a874-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "4ab190b6-b6fa-11f0-9ae7-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "1fbcc6d2-9e13-11f0-9236-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2578.0,
+      "lignes": []
+    },
+    {
+      "id": "42af8884-f998-11ef-b418-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 7115.0,
+      "lignes": []
+    },
+    {
+      "id": "a2dd0fe6-f7e2-11ee-9935-0a58a9feac02",
+      "priority": 60,
+      "duration_hours": 33081.15,
+      "lignes": []
+    },
+    {
+      "id": "0a46d85c-a29a-11f0-abd9-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "4f9b7bc6-b724-11f0-9ae7-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "88e5f97e-b693-11f0-ad55-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "2c6b85ca-b750-11f0-81fc-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "38a498e8-b7ed-11f0-a702-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "e560d5d4-84a7-11f0-a9ad-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2990.9333333333334,
+      "lignes": [
+        "4"
+      ]
+    },
+    {
+      "id": "50b0c81a-88ce-11f0-922c-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 1965.0,
+      "lignes": []
+    },
+    {
+      "id": "e2d2dcec-9215-11f0-ab99-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 4739.0,
+      "lignes": []
+    },
+    {
+      "id": "f0a9c390-9908-11f0-a3cb-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 1408.35,
+      "lignes": [
+        "8"
+      ]
+    },
+    {
+      "id": "bd8e4608-84da-11f0-a9ad-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2297.983333333333,
+      "lignes": []
+    },
+    {
+      "id": "2fe9811e-f264-11ee-9935-0a58a9feac02",
+      "priority": 60,
+      "duration_hours": 33081.15,
+      "lignes": []
+    },
+    {
+      "id": "da90d6b6-b4dd-11f0-acc2-0a58a9feac02",
+      "priority": 60,
+      "duration_hours": 55.016666666666666,
+      "lignes": []
+    },
+    {
+      "id": "85211f4c-97d2-11f0-abd9-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2393.6,
+      "lignes": []
+    },
+    {
+      "id": "80759c3c-84a6-11f0-a9ad-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2991.05,
+      "lignes": [
+        "6"
+      ]
+    },
+    {
+      "id": "4d92fcb6-6f29-11f0-81bd-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "23f8e76e-ac0d-11f0-be96-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 1307.7,
+      "lignes": []
+    },
+    {
+      "id": "cd30dba4-8280-11f0-9e02-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 5086.0,
+      "lignes": []
+    },
+    {
+      "id": "9881082c-d996-11ef-aa1a-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8273.416666666666,
+      "lignes": []
+    },
+    {
+      "id": "43fe2418-4dba-11f0-b8f1-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 4059.983333333333,
+      "lignes": [
+        "1"
+      ]
+    },
+    {
+      "id": "309df8be-a376-11f0-a3cb-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "0efd105a-572c-11f0-b8f1-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 6430.0,
+      "lignes": []
+    },
+    {
+      "id": "0097ceca-3822-11f0-b8f1-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 5281.433333333333,
+      "lignes": [
+        "2"
+      ]
+    },
+    {
+      "id": "1afa2408-b40e-11f0-ad55-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 737.0,
+      "lignes": []
+    },
+    {
+      "id": "cd1f54fe-b4aa-11f0-ad55-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 277.0,
+      "lignes": [
+        "2"
+      ]
+    },
+    {
+      "id": "6b9f9854-7311-11f0-99fa-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 4196.983333333334,
+      "lignes": []
+    },
+    {
+      "id": "b92361c8-842d-11f0-bb6c-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 3005.9166666666665,
+      "lignes": []
+    },
+    {
+      "id": "0258548c-1109-11ef-a614-0a58a9feac02",
+      "priority": 60,
+      "duration_hours": 33081.15,
+      "lignes": []
+    },
+    {
+      "id": "0fad764e-a2c6-11f0-9236-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "ce83711e-b40e-11f0-8053-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 737.0,
+      "lignes": []
+    },
+    {
+      "id": "fc400fe0-84a7-11f0-a9ad-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2990.8,
+      "lignes": [
+        "1"
+      ]
+    },
+    {
+      "id": "c9eadc64-5b35-11f0-8b29-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 3632.6,
+      "lignes": []
+    },
+    {
+      "id": "cb5bb5d2-84ac-11f0-a9ad-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2926.0,
+      "lignes": []
+    },
+    {
+      "id": "a7397530-b0c3-11ef-90f2-0a58a9feac02",
+      "priority": 60,
+      "duration_hours": 33081.15,
+      "lignes": []
+    },
+    {
+      "id": "3e88c724-8800-11f0-8937-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2889.483333333333,
+      "lignes": [
+        "9"
+      ]
+    },
+    {
+      "id": "2296aa44-b6e1-11f0-aa41-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "5e1cc0d4-842e-11f0-bb6c-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 3004.7833333333333,
+      "lignes": [
+        "9"
+      ]
+    },
+    {
+      "id": "8ea23e2a-8ff8-11f0-ab99-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 3005.0333333333333,
+      "lignes": []
+    },
+    {
+      "id": "6acd48c6-842e-11f0-bb6c-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 3005.4666666666667,
+      "lignes": [
+        "7"
+      ]
+    },
+    {
+      "id": "e0df9780-a1bb-11f0-928c-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "cd4c4bc4-84a5-11f0-8937-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2991.45,
+      "lignes": [
+        "3"
+      ]
+    },
+    {
+      "id": "6a65daec-b40d-11f0-a2bf-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 737.0,
+      "lignes": []
+    },
+    {
+      "id": "8f5ec8d4-39db-11ef-85e1-0a58a9feac02",
+      "priority": 60,
+      "duration_hours": 68942.48333333334,
+      "lignes": []
+    },
+    {
+      "id": "628057fe-a534-11f0-b1b2-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2092.65,
+      "lignes": []
+    },
+    {
+      "id": "737b763c-935b-11f0-9236-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "d878260a-9d09-11ef-90f2-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "410f875e-a42e-11f0-b09f-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 1092.0333333333333,
+      "lignes": []
+    },
+    {
+      "id": "c0dad5ea-b808-11f0-a702-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "38681182-84a0-11f0-8937-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2991.8333333333335,
+      "lignes": []
+    },
+    {
+      "id": "36032dd8-a376-11f0-928c-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 8760.0,
+      "lignes": []
+    },
+    {
+      "id": "563f6ace-a535-11f0-b1b2-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2090.0,
+      "lignes": []
+    },
+    {
+      "id": "eff4db16-a532-11f0-b1b2-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 2092.866666666667,
+      "lignes": []
+    },
+    {
+      "id": "c82799c6-a3a6-11f0-abd9-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 905.9833333333333,
+      "lignes": []
+    },
+    {
+      "id": "7c674084-9214-11f0-a585-0a58a9feac02",
+      "priority": 30,
+      "duration_hours": 4739.5,
+      "lignes": []
+    }
+  ],
+  "disruptions_by_severity": {
+    "CRITIQUE": 6,
+    "ELEVEE": 58,
+    "MOYENNE": 0,
+    "FAIBLE": 30
+  }
+}
