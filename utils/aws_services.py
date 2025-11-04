@@ -7,6 +7,7 @@ import json
 import os
 from typing import Dict, Any, Optional, List
 from datetime import datetime
+from decimal import Decimal
 
 try:
     import boto3
@@ -15,6 +16,27 @@ try:
 except ImportError:
     BOTO3_AVAILABLE = False
     print("⚠ boto3 non disponible, utilisation mode simulation (local)")
+
+
+def convert_floats_to_decimal(obj):
+    """
+    Convertit récursivement tous les floats en Decimal pour DynamoDB
+    
+    Args:
+        obj: Objet à convertir (dict, list, float, etc.)
+    
+    Returns:
+        Objet avec tous les floats convertis en Decimal
+    """
+    if isinstance(obj, list):
+        return [convert_floats_to_decimal(item) for item in obj]
+    elif isinstance(obj, dict):
+        return {key: convert_floats_to_decimal(value) for key, value in obj.items()}
+    elif isinstance(obj, float):
+        # Convertir float en Decimal
+        return Decimal(str(obj))
+    else:
+        return obj
 
 
 class DynamoDBService:
@@ -249,12 +271,15 @@ def save_metrics_to_dynamodb(metrics: Dict[str, Any], data_type: str, date: str,
     
     service = DynamoDBService(table_name)
     
+    # Convertir tous les floats en Decimal pour DynamoDB
+    metrics_converted = convert_floats_to_decimal(metrics)
+    
     # Préparer l'item DynamoDB
     item = {
         "metric_type": data_type,
         "date": date,
         "timestamp": datetime.now().isoformat(),
-        "metrics": metrics,
+        "metrics": metrics_converted,
         "ttl": int((datetime.now().timestamp() + (365 * 24 * 3600)))  # TTL 1 an
     }
     
@@ -306,12 +331,15 @@ def save_report_to_dynamodb(report: Dict[str, Any], date: str,
     
     service = DynamoDBService(table_name)
     
+    # Convertir tous les floats en Decimal pour DynamoDB
+    report_converted = convert_floats_to_decimal(report)
+    
     # Préparer l'item DynamoDB
     item = {
         "report_id": f"daily_report_{date}",
         "date": date,
         "timestamp": datetime.now().isoformat(),
-        "report": report,
+        "report": report_converted,
         "ttl": int((datetime.now().timestamp() + (365 * 24 * 3600)))  # TTL 1 an
     }
     

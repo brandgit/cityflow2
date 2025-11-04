@@ -28,10 +28,31 @@ st.markdown("""
         text-align: center;
         margin-bottom: 1rem;
     }
+    
+    /* Corriger la lisibilité des métriques */
     .stMetric {
         background-color: #f0f2f6;
         padding: 1rem;
         border-radius: 0.5rem;
+        border: 1px solid #d0d0d0;
+    }
+    
+    /* Valeurs des métriques en couleur visible */
+    [data-testid="stMetricValue"] {
+        color: #0e1117 !important;
+        font-weight: bold !important;
+        font-size: 2rem !important;
+    }
+    
+    /* Labels des métriques en couleur visible */
+    [data-testid="stMetricLabel"] {
+        color: #31333F !important;
+        font-weight: 600 !important;
+    }
+    
+    /* Delta des métriques */
+    [data-testid="stMetricDelta"] {
+        color: #0e1117 !important;
     }
 </style>
 """, unsafe_allow_html=True)
