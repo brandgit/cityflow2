@@ -88,12 +88,35 @@ with st.sidebar:
 # Fonction de chargement
 @st.cache_data
 def load_metrics(metric_type, date):
-    """Charge les métriques depuis JSON"""
+    """Charge les métriques depuis DynamoDB ou fichiers JSON locaux"""
+    import os
+    import sys
+    from pathlib import Path
+    
+    # Ajouter le répertoire parent au path pour imports
+    sys.path.insert(0, str(Path(__file__).parent.parent))
+    
+    # Essayer de charger depuis la base de données (DynamoDB ou MongoDB)
+    try:
+        from utils.database_factory import get_database_service
+        db_service = get_database_service()
+        data = db_service.load_metrics(metric_type, date)
+        if data:
+            return data
+    except Exception as e:
+        # Si erreur BDD, continuer vers fichiers locaux
+        pass
+    
+    # Fallback : charger depuis fichiers JSON locaux
     file_path = Path(f"output/metrics/{metric_type}_metrics_{date}.json")
     if not file_path.exists():
         return None
-    with open(file_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except:
+        return None
 
 # Charger toutes les métriques
 bikes = load_metrics("bikes", date_str)

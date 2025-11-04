@@ -9,7 +9,7 @@ env/
 ENV/
 
 # Données locales (ne pas pusher sur Git)
-output/
+
 bucket-cityflow-paris-s3-raw/
 data/
 *.csv
